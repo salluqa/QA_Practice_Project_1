@@ -9,7 +9,7 @@
 		"sourceMap": true,
 		"outDir": "dist",
 		"rootDir": ".",
-		"moduleResolution": "node",
+		"moduleResolution": "bundler",
 		"resolveJsonModule": true,
 		"esModuleInterop": true,
 		"forceConsistentCasingInFileNames": true,
